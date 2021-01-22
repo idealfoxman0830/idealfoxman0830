@@ -5,4 +5,5 @@
 <a target="_blank" href="https://www.linkedin.com/in/oguzhanatalay/"><img alt="Send me an email" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <hr />
 <p><img src="https://github-readme-stats.vercel.app/api?username=oguzhnatly&show_icons=true&theme=gotham&hide_border=1&count_private=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhnatly&layout=compact&theme=gotham&hide_border=1"></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhnatly&layout=compact&theme=gotham&hide_border=1">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=oguzhnatly&layout=compact&theme=gotham&hide_border=true"></p>
