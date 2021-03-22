@@ -7,7 +7,7 @@
   <a target="_blank" href="https://www.linkedin.com/in/oguzhanatalay/"><img alt="Connect with me" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 <ul>
-  <li>Competitive Programmer</li>
+  <li>Competitive Developer.</li>
   <li>Ask me about anything, I'll be happy to help.</li>
   <li>How to reach me: <a href="mailto:oguzhnatly@gmail.com">oguzhnatly@gmail.com</a></li>
   <li>Pronouns: He/him</li>
