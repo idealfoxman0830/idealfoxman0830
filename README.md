@@ -1,4 +1,4 @@
-<h1>Hi there, I am Oguzhan <img src="assets/hi.gif" width="30px"></h1>
+<h1>Hi there, Oguzhan here <img src="assets/hi.gif" width="30px"></h1>
 <p><b><i>Let's connect!</i></b></p>
 <p>
   <a target="_blank" href="https://github.com/oguzhnatly"><img alt="Follow me | oguzhnatly GitHub Profile" src="https://img.shields.io/github/followers/oguzhnatly?label=FOLLOW&style=for-the-badge"></a>
@@ -10,7 +10,6 @@
   <li>Competitive Developer.</li>
   <li>Ask me about anything, I'll be happy to help.</li>
   <li>How to reach me: <a href="mailto:oguzhnatly@gmail.com">oguzhnatly@gmail.com</a></li>
-  <li>Pronouns: He/him</li>
 </ul>
 <hr />
 <h2>🚀 Currently Working with</h2>
