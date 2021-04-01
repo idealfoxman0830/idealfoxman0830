@@ -1,5 +1,5 @@
 <h1>Hi there, Oguzhan here <img src="assets/hi.gif" width="30px"></h1>
-<p><b><i>Let's connect!</i></b></p>
+<p><b><i>Let's connect!</i></b><img src="https://hit.yhype.me/github/profile?user_id=54781138" alt="" width="0" /></p>
 <p>
   <a target="_blank" href="https://github.com/oguzhnatly"><img alt="Follow me | oguzhnatly GitHub Profile" src="https://img.shields.io/github/followers/oguzhnatly?label=FOLLOW&style=for-the-badge"></a>
   <a href="https://api.whatsapp.com/send?phone=+905533480648&text=Hello%20Oguzhan,%20I%20got%20your%20contact%20from%20your%20Github%20profile" alt="Connect on Whatsapp"><img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
