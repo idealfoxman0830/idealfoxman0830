@@ -45,9 +45,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=oguzhnatly&show_icons=true&theme=gotham&hide_border=1&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhnatly&layout=compact&theme=gotham&hide_border=1" />
 </p>
-<details>
-  <summary>📊 Github Wakatime Stats</summary>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=oguzhnatly&layout=compact&theme=gotham&hide_border=true" alt="Ayushi Rawat | Stats" />
-  </p>
-</details>
