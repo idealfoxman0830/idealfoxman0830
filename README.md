@@ -15,31 +15,31 @@
 <hr />
 <h2>🚀 Currently Working with</h2>
 <p>
-  <img src="https://img.shields.io/badge/Javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?&style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/React%20Native-%2361DAFB.svg?&style=flat-square&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?&style=flat-square&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jest-%23C21325.svg?&style=flat-square&logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/SASS-%23CC6699.svg?&style=flat-square&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/react%20native-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/jest-%23C21325.svg?&style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/sass-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />
 </p>
 <h2>🌎 Other Skills & Technologies</h2>
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?&style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?&style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?&style=flat-square&logo=google%20cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?&style=flat-square&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/RedwoodJS-%23BF4722.svg?&style=flat-square&logo=redwoodjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/NodeJS-%23339933.svg?&style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/ExpressJS-%23000000.svg?&style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?&style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20XD-%23FF3366.svg?&style=flat-square&logo=adobe%20xd&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/postgresql-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/google%20cloud-%234285F4.svg?&style=for-the-badge&logo=google%20cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/firebase-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/redwoodjs-%23BF4722.svg?&style=for-the-badge&logo=redwoodjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/nodejs-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/expressjs-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/adobe%20xd-%23FF3366.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 <hr />
 <p>
