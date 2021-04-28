@@ -12,14 +12,15 @@
   <li>💬 Ask me about anything, I'll be happy to help.</li>
   <li>📫 How to reach me: <a href="mailto:oguzhnatly@gmail.com">oguzhnatly@gmail.com</a></li>
 </ul>
-<h2>🚀 Languages and Tools</h2>
-<p>
+
+<h3>🚀 Languages and Tools</h3>
+<p style="margin:0;padding:0;">
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/react%20native-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />
 </p>
-<p>
+<p style="margin:0;padding:0;">
   <img src="https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/jest-%23C21325.svg?&style=for-the-badge&logo=jest&logoColor=white" />
   <img src="https://img.shields.io/badge/sass-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />
@@ -27,7 +28,7 @@
   <img src="https://img.shields.io/badge/google%20cloud-%234285F4.svg?&style=for-the-badge&logo=google%20cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/firebase-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
-<p>
+<p style="margin:0;padding:0;">
   <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/redwoodjs-%23BF4722.svg?&style=for-the-badge&logo=redwoodjs&logoColor=white" />
@@ -36,12 +37,12 @@
   <img src="https://img.shields.io/badge/postgresql-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
-<p>
+<p style="margin:0;padding:0;">
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/adobe%20xd-%23FF3366.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
 </p>
-<h2>⚙️ GitHub Analytics</h2>
+<h3>⚙️ GitHub Analytics</h3>
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=oguzhnatly&show_icons=true&theme=gotham&hide_border=1&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhnatly&layout=compact&theme=gotham&hide_border=1" />
