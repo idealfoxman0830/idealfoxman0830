@@ -10,7 +10,7 @@
 <ul>
   <li>👨‍💻 Passionate Developer.</li>
   <li>💬 Ask me about anything, I'll be happy to help.</li>
-  <li>📫 How to reach me: <a href="mailto:oguzhnatly@gmail.com">oguzhnatly@gmail.com</a></li>
+  <li>📫 How to reach me: <a href="mailto:hello@oguzhanatalay.com">hello@oguzhanatalay.com</a></li>
 </ul>
 
 <h3>🚀 Languages and Tools</h3>
