@@ -19,13 +19,14 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white) 
 ![React Native](https://img.shields.io/badge/react%20native-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white)
-<br>
 ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white) 
+<br>
 ![Jest](https://img.shields.io/badge/jest-%23C21325.svg?&style=for-the-badge&logo=jest&logoColor=white) 
 ![SASS](https://img.shields.io/badge/sass-%23CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/google%20cloud-%234285F4.svg?&style=for-the-badge&logo=google%20cloud&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=black)
+![AWS Amplify](https://img.shields.io/badge/AWS%20Amplify-%23FF9900.svg?&style=for-the-badge&logo=aws-amplify&logoColor=white)
 <br>
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white) 
