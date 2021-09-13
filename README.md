@@ -45,6 +45,8 @@
 <h3>✍🏻 My Latest Hashnode Blog Posts</h3>
 
 <!-- HASHNODE:START -->
+- [Add CarPlay to your Flutter App 🚗](https://blog.oguzhanatalay.com/add-carplay-to-your-flutter-app)
+- [React Native: How to add drop shadow effects on Android - supports animation!](https://blog.oguzhanatalay.com/react-native-how-to-add-drop-shadow-effects-on-android-supports-animation)
 <!-- HASHNODE:END -->
 
 <h3>⚙️ GitHub Analytics</h3>
