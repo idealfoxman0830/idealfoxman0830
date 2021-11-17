@@ -31,7 +31,7 @@
 ![AWS Amplify](https://img.shields.io/badge/AWS%20Amplify-%23FF9900.svg?&style=for-the-badge&logo=aws-amplify&logoColor=white)
 <br>
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2b5b84?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
@@ -43,6 +43,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/adobe%20xd-%23FF3366.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 <br>
 ![Apple Developer Program Member](https://img.shields.io/badge/Apple_Developer-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
 ![Google Play Console Program Member](https://img.shields.io/badge/Play_Console_Developer-414141?style=for-the-badge&logo=google-play&logoColor=white)
