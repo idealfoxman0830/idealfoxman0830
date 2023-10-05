@@ -4,7 +4,7 @@
   <li>💬 Ask me about anything, I'll be happy to help.</li>
   <li>📫 How to reach me: <a href="mailto:manideal0830@gmail.com">manideal0830@gmail.com</a></li>
 </ul>
-
+<src img="https://looka.com/s/152020618"></src>
 <h3>🚀 Languages and Tools</h3>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
