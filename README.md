@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, Mobile Developer here <img src="assets/hi.gif" width="30px"></h1>
+<h1 align="center">Hi there, Welcome to my Github <img src="assets/hi.gif" width="30px"></h1>
 <ul>
   <li>👨‍💻 Passionate Developer.</li>
   <li>💬 Ask me about anything, I'll be happy to help.</li>
